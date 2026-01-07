@@ -1,6 +1,6 @@
 # Blog Code Repository
 
-This repository contains code examples and implementations from my blog posts at [abvi.xyz](https://abvi.xyz).
+This repository contains code examples and implementations for my blog posts at [abvi.xyz](https://abvi.xyz).
 
 ## 📂 Repository Structure
 
